@@ -1,0 +1,8 @@
+Arcoiris
+
+blanco
+azul
+rojo
+naranja
+
+Esos son los colores del arcoiris
