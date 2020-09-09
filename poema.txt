@@ -2,6 +2,7 @@ Arcoiris
 
 blanco
 azul
+verde
 rojo
 naranja
 
