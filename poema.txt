@@ -4,6 +4,7 @@ blanco
 azul
 verde
 rojo
+amarillo
 naranja
 
 Esos son los colores del arcoiris
